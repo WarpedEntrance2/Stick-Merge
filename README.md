@@ -1,2 +1,2 @@
 # Stick-Merge
-The Game
+The Game by me ofcc and credit to github coder for the pages
